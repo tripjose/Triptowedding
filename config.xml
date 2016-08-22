@@ -3,7 +3,7 @@
     
     <name>Viral Tech Trend</name>
     <description>Get the Latest Information on Tech News, Free Browsing Cheats, HowTo's, Programming tips, Make Money Online</description>
-    <author email="ifeanyi@" href="http://viraltechtrend.com">WebGeeks (Legend)</author>
+    <author email="ifeanyi@" href="http://www.viraltechtrend.com">WebGeeks (Legend)</author>
 
     <preference name="phonegap-version" value="3.3.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
@@ -47,6 +47,6 @@
     <gap:splash src="res/screen/ios/Default@2x.png" gap:platform="ios" width="680" height="960" />
     <gap:splash src="res/screen/ios/Deafult-568h-2x.png" gap:platform="ios" width="640" height="1136" />
 
-    <content src="http://viraltechtrend.com" />
+    <content src="http://www.viraltechtrend.com" />
     <access origin="*" subdomains="true" />
 </widget>
